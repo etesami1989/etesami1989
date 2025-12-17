@@ -1,4 +1,4 @@
-### Hi there, I'm Naeemeh 👋
+### Hi there, I'm Naeemeh Etesami 👋
 #### 🔬 AI Researcher | 🥽 VR Developer | 🏥 Health Informatics Specialist
 
 I am a Researcher at the **Birjand University of Medical Sciences**, bridging the gap between **Software Engineering** and **Healthcare** through advanced simulation and data science.
